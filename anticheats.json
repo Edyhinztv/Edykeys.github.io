@@ -1,0 +1,89 @@
+{
+
+    "Nexos[AC]": { // Nexos AC
+
+        /////////////////////////////////////////
+        /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
+        /////////////////////////////////////////
+        "USER AQUI": { // PLANTILA LICENCIA 
+            "server_ip": "SERVER IP",
+            "user_key": "KEY AQUI", 
+        },
+        /////////////////////////////////////////
+
+        "BRADLEY": { // User BRAILIN (SAMANA RP)
+            "server_ip": "199.127.60.252:22782",
+            "user_key": "PEPE",
+        },
+
+        "MANBANG": { // User Manba (ENFOK2 RP)
+            "server_ip": "45.45.238.32:20006",
+            "user_key": "HUS",
+        },
+
+        "RUDIEL": { // User capotillo (Capotillo Roleplay)
+            "server_ip": "15.235.4.169:22005",
+            "user_key": "CAPOTILLOTMG",
+        },
+
+        "FAMILY": { // User Family (AZICALES RP)
+            "server_ip": "104.243.46.99:2000",
+            "user_key": "FAMILYTMG",
+        },
+
+        "EDYHINZPRO": { // User EdyhinzPro (UnderWater RP)
+            "server_ip": "147.135.31.37:22526",
+            "user_key": "84QWLE9203NKJAD583920",
+        },
+
+        "LUKITA": { // User Lukita rata (Millonario RP)
+            "server_ip": "45.126.208.168:6000",
+            "user_key": "ESTEMMGJODE",
+        },
+
+    },
+
+    "Samu": { // Samu
+
+        /////////////////////////////////////////
+        /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
+        /////////////////////////////////////////
+        "USER AQUI": { // PLANTILA LICENCIA 
+            "server_ip": "SERVER IP",
+            "user_key": "KEY AQUI", 
+        },
+        /////////////////////////////////////////
+
+        "TEST": { // Test Local Server User
+            "server_ip": "71.58.239.210:22003",
+            "user_key": "TEST",
+        },
+
+        "TEST": { // User  (Server)
+            "server_ip": "186.120.212.25:22003",
+            "user_key": "TEST",
+        },
+    },
+
+    "[NS]Login": { // Login V2
+
+        /////////////////////////////////////////
+        /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
+        /////////////////////////////////////////
+        "SERVER": { // PLANTILA LICENCIA 
+            "server_ip": "186.120.212.25",
+            "user_key": "PRUEBA", 
+        },
+        /////////////////////////////////////////
+
+        "MANBANG": { // User Manba (ENFOK2 RP)
+            "server_ip": "199.127.60.252:22072",
+            "user_key": "HUS",
+        },
+
+        "TEST": { // User  (Server)
+            "server_ip": "186.120.212.25:22003",
+            "user_key": "TEST",
+        },
+    },
+}
