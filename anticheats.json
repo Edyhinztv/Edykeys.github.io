@@ -4,9 +4,9 @@
     "Edy": {
       "server_ip": "73.32.5.69",
       "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    },
+    }
+  },
 
-  
   "[Edy]MultiCharacter": {
     
     "Edy": {
@@ -15,15 +15,13 @@
     }
   },
 
-  
-  "[Edy]Loadscreen": {
+  "[Edy]loadscreen": {
     
     "Edy": {
       "server_ip": "73.32.5.69",
       "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
     }
   },
-
 
   "[Edy]Recoil": {
     
