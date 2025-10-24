@@ -1,21 +1,7 @@
 {
 
-    "Nexos[AC]": { // Nexos AC
-
-        /////////////////////////////////////////
-        /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
-        /////////////////////////////////////////
-        "USER AQUI": { // PLANTILA LICENCIA 
-            "server_ip": "SERVER IP",
-            "user_key": "KEY AQUI", 
-        },
-        /////////////////////////////////////////
-
-"[Edy]Radio": {
-    
-        "Edy": { // User BRAILIN (SAMANA RP)
+    "[Edy]Radio": { // Nexos AC
+        "Edy": {
             "server_ip": "73.32.5.69",
-            "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny",
+            "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
-    },
-}
