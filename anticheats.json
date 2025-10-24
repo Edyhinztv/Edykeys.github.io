@@ -1,13 +1,16 @@
 {
   "[Edy]Radio": {
+    
     "SERVER": {
       "server_ip": "186.120.212.25",
       "user_key": "PRUEBA"
     },
+    
     "Edy": {
       "server_ip": "73.32.5.69",
       "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
     },
+    
     "TEST": {
       "server_ip": "186.120.212.25:22003",
       "user_key": "TEST"
