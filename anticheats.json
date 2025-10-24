@@ -1,47 +1,35 @@
 {
   "[Edy]Radio": {
     
-    "SERVER": {
-      "server_ip": "186.120.212.25",
-      "user_key": "PRUEBA"
-    },
-    
     "Edy": {
       "server_ip": "73.32.5.69",
       "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
     },
+
+  
+  "[Edy]MultiCharacter": {
     
-    "TEST": {
-      "server_ip": "186.120.212.25:22003",
-      "user_key": "TEST"
+    "Edy": {
+      "server_ip": "73.32.5.69",
+      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
     }
   },
 
-  ////////////////////////////////////////////////////////////////////
-  "Samu": {
+  
+  "[Edy]Loadscreen": {
     
     "Edy": {
       "server_ip": "73.32.5.69",
       "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    },
-    
-    "OtroUsuario": {
-      "server_ip": "1.2.3.4",
-      "user_key": "CLAVE-UNICA"
     }
   },
 
-  ////////////////////////////////////////////////////////////////////
-  "Rojos": {
+
+  "[Edy]Recoil": {
     
     "Edy": {
       "server_ip": "73.32.5.69",
       "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    },
-    
-    "OtroUsuario": {
-      "server_ip": "1.2.3.4",
-      "user_key": "CLAVE-UNICA"
     }
   }
 }
