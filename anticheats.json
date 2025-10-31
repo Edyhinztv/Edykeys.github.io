@@ -23,6 +23,14 @@
     }
   },
 
+    "[Edy]Bank": {
+    
+"Edy": {
+      "server_ip": "102.129.137.90",
+      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+    }
+  },
+
     "[Edy]Logo": {
     
     "Edy": {
