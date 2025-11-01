@@ -1,70 +1,74 @@
 {
+
     "[Edy]Radio": {
-    
-"Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    }
-  },
+        "Edy": {
+            "server_ip": "102.129.137.90",
+            "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
+        },
 
-      "[Edy]Radio": {
-    
-"Queonda": {
-      "server_ip": "185.245.99.99",
-      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
-    }
-  },
+        "BRADLEY": {
+            "server_ip": "199.127.60.252:22782",
+            "user_key": "PEPE",
+        },
 
-  "[Edy]MultiCharacter": {
-    
-    "Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    }
-  },
+        "MANBANG": {
+            "server_ip": "45.45.238.32:20006",
+            "user_key": "HUS",
+        },
 
-    "[Edy]Loadscreen": {
-    
-"Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    }
-  },
+        "RUDIEL": {
+            "server_ip": "15.235.4.169:22005",
+            "user_key": "CAPOTILLOTMG",
+        },
 
-    "[Edy]Loadscreen": {
-    
-"Queonda": {
-      "server_ip": "185.245.99.99",
-      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
-    }
-  },
+        "FAMILY": {
+            "server_ip": "104.243.46.99:2000",
+            "user_key": "FAMILYTMG",
+        },
 
-    "[Edy]Bank": {
-    
-"Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    }
-  },
+        "EDYHINZPRO": {
+            "server_ip": "147.135.31.37:22526",
+            "user_key": "84QWLE9203NKJAD583920",
+        },
 
-    "[Edy]Logo": {
-    
-    "Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    }
-  },
+        "LUKITA": {
+            "server_ip": "45.126.208.168:6000",
+            "user_key": "ESTEMMGJODE",
+        },
 
-  "[Edy]Recoil": {
-    
-    "Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
     },
 
-      "Queonda": {
-      "server_ip": "185.245.99.99",
-      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
-    }
-  }
+    "Samu": {
+        "USER AQUI": {
+            "server_ip": "SERVER IP",
+            "user_key": "KEY AQUI", 
+        },
+
+        "TEST": {
+            "server_ip": "71.58.239.210:22003",
+            "user_key": "TEST",
+        },
+
+        "TEST": {
+            "server_ip": "186.120.212.25:22003",
+            "user_key": "TEST",
+        },
+    },
+
+    "[NS]Login": {
+        "SERVER": {
+            "server_ip": "186.120.212.25",
+            "user_key": "PRUEBA", 
+        },
+
+        "MANBANG": {
+            "server_ip": "199.127.60.252:22072",
+            "user_key": "HUS",
+        },
+
+        "TEST": {
+            "server_ip": "186.120.212.25:22003",
+            "user_key": "TEST",
+        },
+    },
 }
