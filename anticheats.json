@@ -1,12 +1,15 @@
 {
-  "[Edy]Radio": {
+    "[Edy]Radio": {
     
-    "Edy": {
+"Edy": {
       "server_ip": "102.129.137.90",
       "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    },
+    }
+  },
 
-    "Queonda": {
+      "[Edy]Radio": {
+    
+"Edy": {
       "server_ip": "185.245.99.99",
       "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
     }
