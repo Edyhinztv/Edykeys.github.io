@@ -9,7 +9,7 @@
 
       "[Edy]Radio": {
     
-"Edy": {
+"Queonda": {
       "server_ip": "185.245.99.99",
       "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
     }
@@ -23,14 +23,17 @@
     }
   },
 
-  "[Edy]Loadscreen": {
+    "[Edy]Loadscreen": {
     
 "Edy": {
       "server_ip": "102.129.137.90",
       "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+    }
   },
 
-  "Queonda": {
+    "[Edy]Loadscreen": {
+    
+"Queonda": {
       "server_ip": "185.245.99.99",
       "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
     }
