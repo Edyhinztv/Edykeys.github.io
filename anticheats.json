@@ -1,55 +1,64 @@
 {
-    "[Edy]Radio": {
-        "Edy": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-        },
-        "Queonda": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
-        }
-    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
+  "[Edy]Radio": {
+    
+    "Edy": {
+      "server_ip": "102.129.137.90",
+      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+    },
 
-    "[Edy]MultiCharacter": {
-        "Edy": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-        }
-    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
+    "Queonda": {
+      "server_ip": "185.245.99.99",
+      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
+    }
+  },
 
-    "[Edy]Loadscreen": {
-        "Edy": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-        },
-        "Queonda": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
-        }
-    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
+  "[Edy]MultiCharacter": {
+    
+    "Edy": {
+      "server_ip": "102.129.137.90",
+      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+    }
+  },
+
+  "[Edy]Loadscreen": {
+    
+"Edy": {
+      "server_ip": "102.129.137.90",
+      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+  },
+
+  "Queonda": {
+      "server_ip": "185.245.99.99",
+      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
+    }
+  },
 
     "[Edy]Bank": {
-        "Edy": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-        }
-    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
+    
+"Edy": {
+      "server_ip": "102.129.137.90",
+      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+    }
+  },
 
     "[Edy]Logo": {
-        "Edy": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-        }
-    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
-
-    "[Edy]Recoil": {
-        "Edy": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-        },
-        "Queonda": {
-          "server_ip": "102.129.137.90",
-          "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
-        }
+    
+    "Edy": {
+      "server_ip": "102.129.137.90",
+      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
     }
+  },
+
+  "[Edy]Recoil": {
+    
+    "Edy": {
+      "server_ip": "102.129.137.90",
+      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+    },
+
+      "Queonda": {
+      "server_ip": "185.245.99.99",
+      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
+    }
+  }
 }
