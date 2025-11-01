@@ -51,5 +51,5 @@
           "server_ip": "102.129.137.90",
           "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
         }
-    } <--- NO debe llevar coma al final (antes de la llave de cierre global '}')
+    }
 }
