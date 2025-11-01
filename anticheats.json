@@ -1,64 +1,55 @@
 {
-  "[Edy]Radio": {
-    
-    "Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+    "[Edy]Radio": {
+        "Edy": {
+          "server_ip": "102.129.137.90",
+          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+        },
+        "Queonda": {
+          "server_ip": "**102.129.137.90**", <--- Corregido
+          "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
+        }
     },
 
-    "Queonda": {
-      "server_ip": "185.245.99.99",
-      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
-    }
-  },
+    "[Edy]MultiCharacter": {
+        "Edy": {
+          "server_ip": "102.129.137.90",
+          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+        }
+    },
 
-  "[Edy]MultiCharacter": {
-    
-    "Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    }
-  },
-
-  "[Edy]Loadscreen": {
-    
-"Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-  },
-
-  "Queonda": {
-      "server_ip": "185.245.99.99",
-      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
-    }
-  },
+    "[Edy]Loadscreen": {
+        "Edy": {
+          "server_ip": "102.129.137.90",
+          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+        },
+        "Queonda": {
+          "server_ip": "**102.129.137.90**", <--- Corregido
+          "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
+        }
+    },
 
     "[Edy]Bank": {
-    
-"Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    }
-  },
-
-    "[Edy]Logo": {
-    
-    "Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
-    }
-  },
-
-  "[Edy]Recoil": {
-    
-    "Edy": {
-      "server_ip": "102.129.137.90",
-      "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+        "Edy": {
+          "server_ip": "102.129.137.90",
+          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+        }
     },
 
-      "Queonda": {
-      "server_ip": "185.245.99.99",
-      "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
+    "[Edy]Logo": {
+        "Edy": {
+          "server_ip": "102.129.137.90",
+          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+        }
+    },
+
+    "[Edy]Recoil": {
+        "Edy": {
+          "server_ip": "102.129.137.90",
+          "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
+        },
+        "Queonda": {
+          "server_ip": "**102.129.137.90**", <--- Corregido
+          "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
+        }
     }
-  }
 }
