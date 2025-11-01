@@ -5,17 +5,17 @@
           "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
         },
         "Queonda": {
-          "server_ip": "**102.129.137.90**", <--- Corregido
+          "server_ip": "102.129.137.90",
           "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
         }
-    },
+    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
 
     "[Edy]MultiCharacter": {
         "Edy": {
           "server_ip": "102.129.137.90",
           "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
         }
-    },
+    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
 
     "[Edy]Loadscreen": {
         "Edy": {
@@ -23,24 +23,24 @@
           "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
         },
         "Queonda": {
-          "server_ip": "**102.129.137.90**", <--- Corregido
+          "server_ip": "102.129.137.90",
           "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
         }
-    },
+    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
 
     "[Edy]Bank": {
         "Edy": {
           "server_ip": "102.129.137.90",
           "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
         }
-    },
+    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
 
     "[Edy]Logo": {
         "Edy": {
           "server_ip": "102.129.137.90",
           "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
         }
-    },
+    }, <--- ¡IMPORTANTE! Coma necesaria para separar el siguiente bloque
 
     "[Edy]Recoil": {
         "Edy": {
@@ -48,8 +48,8 @@
           "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny"
         },
         "Queonda": {
-          "server_ip": "**102.129.137.90**", <--- Corregido
+          "server_ip": "102.129.137.90",
           "user_key": "EDY-NKqnwgYKNALapKNyKicWWDcHCuuHUj"
         }
-    }
+    } <--- NO debe llevar coma al final (antes de la llave de cierre global '}')
 }
