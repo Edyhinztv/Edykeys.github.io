@@ -26,6 +26,14 @@
         },
 
     },
+
+        "[Edy]Inventario": {
+        "Edy": {
+            "server_ip": "102.129.137.90",
+            "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
+        },
+
+    },
         "[Edy]Hud": {
         "Edy": {
             "server_ip": "102.129.137.90",
