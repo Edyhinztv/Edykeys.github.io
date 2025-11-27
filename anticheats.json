@@ -2,7 +2,7 @@
 
     "[Edy]Radio": {
         "Edy": {
-            "server_ip": "102.129.137.90",
+            "server_ip": "45.126.208.161",
             "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
 
@@ -21,7 +21,7 @@
     
     "[Edy]Logo": {
         "Edy": {
-            "server_ip": "102.129.137.90",
+            "server_ip": "45.126.208.161",
             "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
 
@@ -29,7 +29,7 @@
     
     "[Edy]Apartments": {
         "Edy": {
-            "server_ip": "102.129.137.90",
+            "server_ip": "45.126.208.161",
             "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
 
@@ -37,7 +37,7 @@
 
     "[Edy]Notify": {
         "Edy": {
-            "server_ip": "102.129.137.90",
+            "server_ip": "45.126.208.161",
             "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
 
@@ -45,14 +45,14 @@
 
         "[Edy]Inventario": {
         "Edy": {
-            "server_ip": "102.129.137.90",
+            "server_ip": "45.126.208.161",
             "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
 
     },
         "[Edy]Hud": {
         "Edy": {
-            "server_ip": "102.129.137.90",
+            "server_ip": "45.126.208.161",
             "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
 
@@ -60,7 +60,7 @@
 
         "[Edy]Bank": {
         "Edy": {
-            "server_ip": "102.129.137.90",
+            "server_ip": "45.126.208.161",
             "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
 
@@ -76,7 +76,7 @@
 
     "[Edy]Loadscreen": {
         "Edy": {
-            "server_ip": "102.129.137.90",
+            "server_ip": "45.126.208.161",
             "user_key": "EDY-tcTtcDCCpyrHZyHPwKVSjQbgKAJzny", 
         },
 
